@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.restapiexample.dummy.restapiinfo.RestAPICURDTestWithSteps" skipped="0" tests="1" time="0.0" timestamp="2022-06-07T20:36:34.228+01:00[Europe/London]"><testcase classname="com.restapiexample.dummy.restapiinfo.RestAPICURDTestWithSteps" name="Initialisation"><error message="For input string: &quot;&quot;" type="java.lang.NumberFormatException">For input string: ""</error><system-err>For input string: ""&#13;
+com.restapiexample.dummy.testbase.TestBase.init(TestBase.java:14)&#13;
+</system-err></testcase></testsuite>
